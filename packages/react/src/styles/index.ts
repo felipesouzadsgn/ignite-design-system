@@ -8,7 +8,7 @@ import {
   lineHeights,
   radii,
   space,
-} from "@ignite-ui/tokens";
+} from "@fs-ignite-ui/tokens";
 
 export const {
   styled,
